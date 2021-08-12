@@ -1,0 +1,14 @@
+name: Sign Letter
+description: Sign the Letter on Data Governance and Democracy.
+title: "[SIGN] Your Name Here"
+labels: signature
+assignees: alexrandaccio
+body:
+ - type: input
+   attributes:
+     label: Name
+   validations:
+     required: true
+ - type: input
+   attributes:
+     label: Affiliation
